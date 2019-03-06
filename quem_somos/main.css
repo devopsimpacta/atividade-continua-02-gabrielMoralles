@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 7rem;
+    padding-top: 2rem;
+
+}
+
+p{
+    font-size: 2rem;
+    text-align: center;
+    border: dotted 5px black;
+    font-family: 'Montserrat', sans-serif;
+    padding: 2rem;
+    margin-top:5rem; 
+   
+}
+
+html{
+    background-image: linear-gradient(white,lightgray);
+}
+body {
+    height: 100vh;
+}
+body {
+    min-height: 100vh;
+
+    
+    
+  }
+
+  ul{
+    width: 100%;
+    margin:auto;
+    text-decoration: none;
+    background-color:#bebebe;
+    text-align: center;
+    height: 3ch;
+    padding-top: 1ch ;
+}
+ul li{
+    
+    border-left: 1px solid rgb(0, 0, 0);
+    border-right: 1px solid rgb(0, 0, 0);
+    display: inline;
+    height: 0px;
+    padding: 0px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 3ch ;
+    padding-bottom: 1ch;
+    background-image: linear-gradient(to bottom, #bebebe,#FFFF,#bebebe);
+
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
